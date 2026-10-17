@@ -1,0 +1,4 @@
+Implement in Python a program that reads a text file and extracts the 57 features discussed in the previous task.
+b) Apply the feature extractor to the provided three example emails and detect whether they are spam or not spam.
+c) (For brownie points only:) Using ChatGPT, generate three different spam emails, you can be as creative as you wish to be here. Once again, run the feature extractor for these three emails and document the results. Try to play around with more generated emails from ChatGPT (spam and non spam). Does the feature extractor work?
+For a limited time only!
